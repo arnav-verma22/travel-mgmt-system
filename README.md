@@ -1,5 +1,6 @@
 # travel-mgmt-system
-This is my <b>THIRD Backend Web Project</b>, for frontend I have used some templates, here are some outputs of webpage running on localhost
+This is my <b>THIRD Backend Web Project</b>, for frontend I have used some templates, here are some outputs of webpage running on localhost<br>
+This project was made using JAVA servlets, JDBC , MySQL and JSP
 ### Main Page
 ![image](https://user-images.githubusercontent.com/51115928/123802767-44f87a00-d909-11eb-9850-3e7ab4e6ea05.png)
 ![image](https://user-images.githubusercontent.com/51115928/123802645-26927e80-d909-11eb-9b3b-af6f88cd8304.png)
